@@ -9,13 +9,10 @@
     </style>
 
     <style name="IguanaFixTheme" parent="Theme.AppCompat.NoActionBar">
-        <item name="colorPrimary">#4CAF50</item>
-        <item name="colorPrimaryDark">#388E3C</item>
-        <item name="colorPrimaryLigt">#C8E6C9</item>
-        <item name="colorAccent">#00BCD4</item>
-        <item name="textColorPrimary">#212121</item>
-        <item name="textColorSecondary">#757575</item>
-        <item name="icon">#FFFFFF</item>
+        <item name="colorPrimary">@color/IguanaPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/IguanaPrimaryDark</item>
+        <item name="colorAccent">@color/IguanaAccent</item>
+        <item name="android:textColorSecondary">@color/IguanaColorSecondary</item>
     </style>>
 
 </resources>

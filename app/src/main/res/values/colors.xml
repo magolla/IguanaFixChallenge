@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="iguanaPrimary">#4caf50</color>
+    <color name="IguanaPrimaryDark">#388e3c</color>
+    <color name="IguanaAccent">#00bcd4</color>
+    <color name="IguanaColorPrimary">#212121</color>
+    <color name="IguanaColorSecondary">#757575</color>
 </resources>
